@@ -20,4 +20,4 @@ To create UML Diagrams for ATM & Banking systems using StarUML.
 ![ATM_Activity](https://github.com/user-attachments/assets/75b0fe11-5d3d-4407-a2a4-6c89ca02d3d1)
 
 ## Conclusion : 
-The UML Diagrams for ATM & Bankingb Systems have been successfully created and implemented using StarUML.
+The UML Diagrams for ATM & Banking Systems have been successfully created and implemented using StarUML.
