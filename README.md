@@ -1,23 +1,29 @@
-# Ex-1 UML Diagrams for ATM & Banking Systems :
+# ATM BANKING SYSTEMS
 
-## Aim :
-To create UML Diagrams for ATM & Banking systems using StarUML.
+### DEVELOPED BY: SHRIRAM S
+### REGISTER NUMBER: 212222240098
 
-## Use Case Diagram :
+## USE CASE DIAGRAM:
+![EX 1 USE CASE](https://github.com/user-attachments/assets/b6a886a8-87bd-4917-82bf-c855623d625f)
 
-![ATM_Use case](https://github.com/user-attachments/assets/68bbe283-4553-48e6-9f8d-69735cd3816d)
 
-## Class Diagram :
+## ACTIVITY DIAGRAM:
+![EX 1 ACTIVITY](https://github.com/user-attachments/assets/050b11fc-4fef-483a-8b0d-28f290f9cb8e)
 
-![ATM_Class](https://github.com/user-attachments/assets/0ff68f6b-c481-44f3-8392-5e8339cbedb0)
 
-## Sequence Diagram : 
+## SEQUENCE DIAGRAM:
+![EX 1 SEQUENCE](https://github.com/user-attachments/assets/0acecd51-b0a7-4a52-a0cf-75f31e7f1d6a)
 
-![ATM_Sequnce](https://github.com/user-attachments/assets/10a02da9-9953-43b8-9db9-799d4b435281)
 
-## Activity Diagram :
+## CLASS DIAGRAM:
+![EX 1 CLASS](https://github.com/user-attachments/assets/9ac17083-f43b-476e-83a3-f9953e5ce269)
 
-![ATM_Activity](https://github.com/user-attachments/assets/75b0fe11-5d3d-4407-a2a4-6c89ca02d3d1)
 
-## Conclusion : 
-The UML Diagrams for ATM & Banking Systems have been successfully created and implemented using StarUML.
+## COMMUNICATION DIAGRAM:
+![EX 1 COMM 1](https://github.com/user-attachments/assets/9d2ed47c-44c7-4178-969d-f84b0c18da9c)
+
+![EX 1 COMM 2](https://github.com/user-attachments/assets/0d249840-92b3-4105-b580-ae45a0c59d21)
+
+
+## RESULT:
+Hence, Use Case, Activity, Sequence, Class and Communication diagrams for ATM banking system is successfully drawn.
